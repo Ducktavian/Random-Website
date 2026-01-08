@@ -1,6 +1,16 @@
 # Random-Website
 A random website.
 
+## Getting Collaborator Access
+
+Successful contributions will only work if you have collaborator access. 
+Direct push is not viable for not collaborators.
+
+1. Follow me on GitHub or notify me.
+2. I’ll add you as a collaborator, and then you’ll have permission to push directly to the repo.
+
+---
+
 ## Getting Started for New GitHub Users
 
 
@@ -52,6 +62,18 @@ cd Random-Website
 
 
 ---
+
+
+## Getting Collaborator Access
+
+If you want to push directly to this repo without making pull requests, you need to be added as a collaborator.
+
+1. Follow me on GitHub or notify me.
+2. I’ll add you as a collaborator, and then you’ll have permission to push directly to the repo.
+
+---
+
+
 
 
 ## Keeping Your Repo Up-to-Date
