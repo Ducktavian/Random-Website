@@ -1,14 +1,15 @@
 # Random-Website
-A random website.
+A random website. Add some features or files as you like.
 
-## Getting Collaborator Access
-
-Successful contributions will only work if you have collaborator access. 
-Direct push is not viable for not collaborators.
+## Getting Collaborator Access (Must Read)
+Assuming you are one of my friends whom I've invited: 
+**You can only push directly if you have collaborator access.**. 
+Direct push will not work for non-collaborators..
 
 1. Follow me on GitHub or notify me.
 2. I’ll add you as a collaborator, and then you’ll have permission to push directly to the repo.
 
+> If you’re not a collaborator, you can still contribute via pull requests (not covered here yet).
 ---
 
 ## Getting Started for New GitHub Users
@@ -132,6 +133,6 @@ git pull origin main
 ## License
 
 
-Feel free to use and modify this project for fun! ✨
+Feel free to use and modify this project for fun!
 
 
