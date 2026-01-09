@@ -27,6 +27,7 @@ Before contributing, make sure **Git** is installed on your device.
     ```bash
     winget install --id Git.Git -e --source winget
     ```
+    > Note: WinGet only works for Windows 10 and above. Else download Git via `https://git-scm.com/install/windows`
 3. Verify Git installation:
     ```bash
     git --version
